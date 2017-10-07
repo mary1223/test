@@ -10,6 +10,9 @@ int main(void) {
     remain = input % 2;
     if(remain == 1) {
         printf("%d 為奇數\n", input);
+
+        asdfasdf;
+        
     }
     else {
         printf("%d 為偶數\n", input);
